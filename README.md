@@ -1,5 +1,6 @@
 # Alla Ricerca della Felicità
-Progetto svolto insieme a: Simone Farallo, Michele Salvaterra, Edoardo Rana
+Progetto svolto insieme a: Simone Farallo, Michele Salvaterra, Edoardo Rana.
+
 Puoi utilizzare interattivamente la visualization al seguente [link](https://public.tableau.com/shared/D9RS5KWGB?:display_count=n&:origin=viz_share_link).
 
 ![Prima visualizzazione definitiva](https://github.com/Emeierkeio/dataviz-findinghappiness/blob/main/viz/definitiva1.png)
