@@ -161,9 +161,10 @@ Nella seconda sezione viene invece richiesto all’utente di valutare, su un con
 ##### Risultati
 
 Per la prima infografica i risultati sono i seguenti:
+
 | Utile|Chiara|Informativa|Bella|Intuitiva|Valore complessivo |
-|------|------|------|------|------|------|------|
-| **1** |0|0|0|1|1|0|
+|------|------|------|------|------|------|
+| **1** | 0 | 0 | 0 | 1 | 1 | 0 |
 | **2** |2|3|2|2|7|1|
 | **3** |3|10|4|3|5|2|
 | **4** |9|4|7|7|6|9|
@@ -173,7 +174,7 @@ Per la prima infografica i risultati sono i seguenti:
 Per la seconda infografica i risultati sono i seguenti:
 
 | Utile|Chiara|Informativa|Bella|Intuitiva|Valore complessivo |
-|------|------|------|------|------|------|------|
+|------|------|------|------|------|------|
 | **1** |0|0|0|0|0|0|
 | **2** |2|0|1|2|0|0|
 | **3** |6|6|4|4|7|1|
